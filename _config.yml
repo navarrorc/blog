@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ASP.NET Core and React
+title: ASP.NET Core and React Blog
 description: > # this means to ignore newlines until "baseurl:"
   This website is a dedicate blog to the ASP.NET Core and React book published by Packt Publishing. 
   You will find information about these two web technologies and ways to successfully 
